@@ -1,0 +1,6 @@
+c:\users\usama\documents\visual studio 2013\Projects\HEAPSORT1\HEAPSORT1\bin\Debug\HEAPSORT1.exe.config
+c:\users\usama\documents\visual studio 2013\Projects\HEAPSORT1\HEAPSORT1\obj\Debug\HEAPSORT1.csprojResolveAssemblyReference.cache
+c:\users\usama\documents\visual studio 2013\Projects\HEAPSORT1\HEAPSORT1\bin\Debug\HEAPSORT1.exe
+c:\users\usama\documents\visual studio 2013\Projects\HEAPSORT1\HEAPSORT1\bin\Debug\HEAPSORT1.pdb
+c:\users\usama\documents\visual studio 2013\Projects\HEAPSORT1\HEAPSORT1\obj\Debug\HEAPSORT1.exe
+c:\users\usama\documents\visual studio 2013\Projects\HEAPSORT1\HEAPSORT1\obj\Debug\HEAPSORT1.pdb
